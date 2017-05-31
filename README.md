@@ -1,9 +1,17 @@
 # Distributed Checkpointing with Docker Containers in High Performance Computing
 Gustaf Berg and Magnus Brattlöf Bachelor Thesis in Computer Engineering
 
-Distributed Checkpointing with Docker Containers in High Performance Computing/
-|____Baseline/
-     |____baseline_native.py
-     |____baseline_container.py
-|____Pause
-     |____pause_extended.py
+Baseline/
+	baseline_native.py
+	baseline_containers.py
+
+Pasue/
+	pause_extended.py
+
+Checkpoint Move and Restore/
+	cmr_cg2.py
+	cmr_cg4.py
+
+Checkpint Switch and Restore/
+	csr.py
+	

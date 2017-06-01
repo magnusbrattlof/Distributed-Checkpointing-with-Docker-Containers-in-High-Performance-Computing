@@ -12,7 +12,7 @@ Gustaf Berg and Magnus Brattlöf Bachelor Thesis in Computer Engineering
     * baseline_native.py
     * baseline_container.py
 * Pause
-    * extended_pause.py
+    * pause_extended.py
 * Checkpoint Move and Restore
     * cmr_cg2.py
     * cmr_cg4.py

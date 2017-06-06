@@ -3,8 +3,8 @@ import checkpoint
 import time
 import os
 
-containers = ['checkpoint01', 'checkpoint02', 'checkpoint03', 'checkpoint04',
-              'checkpoint05', 'checkpoint06', 'checkpoint07', 'checkpoint08']
+containers = ['cont01', 'cont02', 'cont03', 'cont04',
+              'cont05', 'cont06', 'cont07', 'cont08']
 local = containers[:4]
 remote = containers[4:]
 app = 'cg.C.8'

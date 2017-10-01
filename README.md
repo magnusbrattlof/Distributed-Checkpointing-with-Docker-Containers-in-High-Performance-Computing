@@ -8,14 +8,12 @@ Gustaf Berg and Magnus Brattlöf Bachelor Thesis in Computer Engineering
 *These scripts intended purpose was not to be beautiful nor effective, their main focus was in completing a set of tasks as simple as possible.*
 
 **Content**:<br />
-* Baseline
-    * baseline_native.py
-    * baseline_container.py
-* Pause
-    * pause_extended.py
-* Checkpoint Move and Restore
-    * cmr_cg2.py
-    * cmr_cg4.py
-* Checkpoint Switch and Restore
-    * csr.py
-    * checkpoint.py
+* Article
+    * main.py
+    * docker_api.py
+
+* Bachelor
+    * Baseline
+    * Pause
+    * Checkpoint Move and Restore
+    * Checkpoint Switch and Restore
